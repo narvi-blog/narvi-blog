@@ -1,0 +1,3 @@
+[submodule "01-exec-jar"]
+	path = 01-exec-jar
+	url = github:narvi-blog/01-exec-jar.git
